@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmploRecrutingTask1", "EmploRecrutingTask1\EmploRecrutingTask1.csproj", "{712012E6-F8B6-41D5-B095-096D86990C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712012E6-F8B6-41D5-B095-096D86990C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712012E6-F8B6-41D5-B095-096D86990C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712012E6-F8B6-41D5-B095-096D86990C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712012E6-F8B6-41D5-B095-096D86990C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
